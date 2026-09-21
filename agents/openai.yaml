@@ -1,0 +1,7 @@
+interface:
+  display_name: "世界模型"
+  short_description: "整理跨窗口对话，持续构建可追溯的世界模型"
+  default_prompt: "请使用 $personal-world-model 整理尚未处理的对话，并增量更新我的世界模型。"
+
+policy:
+  allow_implicit_invocation: true
